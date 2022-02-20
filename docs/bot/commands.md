@@ -64,7 +64,7 @@ The default prefix is `p.` but can be changed with the [prefix command](#prefix)
 - [Stats](#stats)
 - [User](#user)
 
-### [NSFW](#category-nsfw)
+### [Any chat](#category-nsfw)
 - [Blowjob](#blowjob)
 - [Cum](#cum)
 - [Fuck](#fuck)
